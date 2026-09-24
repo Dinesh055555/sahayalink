@@ -1,0 +1,9 @@
+# Render deployment config. With this file in the repo, Render sets everything up
+# automatically when you click "New > Blueprint" and pick your repo.
+services:
+  - type: web
+    name: sahayalink
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh

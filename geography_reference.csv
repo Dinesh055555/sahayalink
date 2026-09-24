@@ -1,0 +1,37 @@
+﻿village_id,village,district,block,latitude,longitude,population,road_access,mobile_connectivity
+VIL0001,Badepally,Mahabubnagar,Jadcherla,16.863881,77.982442,3961,Mostly paved,Moderate
+VIL0002,Polepally,Mahabubnagar,Jadcherla,16.82928,77.80676,1910,Mixed,Weak
+VIL0003,Gangapur,Mahabubnagar,Jadcherla,16.65645,78.181741,4949,Paved,Moderate
+VIL0004,Macharam,Mahabubnagar,Jadcherla,16.932619,78.039468,5902,Paved,Weak
+VIL0005,Balanagar,Mahabubnagar,Balanagar,16.759837,77.829396,1974,Paved,Moderate
+VIL0006,Rajapur,Mahabubnagar,Balanagar,16.815673,77.901707,1549,Paved,Good
+VIL0007,Kallepally,Mahabubnagar,Balanagar,16.603766,78.131485,1921,Mixed,Very weak
+VIL0008,Bodajanampet,Mahabubnagar,Balanagar,16.740128,78.154652,1731,Paved,Moderate
+VIL0009,Midjil,Mahabubnagar,Midjil,16.799568,77.942927,5506,Mixed,Good
+VIL0010,Donur,Mahabubnagar,Midjil,16.684609,77.801044,6216,Paved,Moderate
+VIL0011,Velpula,Mahabubnagar,Midjil,16.651347,77.890114,4392,Paved,Very weak
+VIL0012,Vemula,Mahabubnagar,Midjil,16.562478,77.896192,6132,Poor,Moderate
+VIL0013,Devarakonda,Nalgonda,Devarakonda,17.172732,79.097373,2767,Paved,Moderate
+VIL0014,Kondamallepally,Nalgonda,Devarakonda,17.187989,79.128852,4570,Paved,Good
+VIL0015,Peddadinne,Nalgonda,Devarakonda,17.077201,79.34614,4311,Paved,Very weak
+VIL0016,Gundlapally,Nalgonda,Devarakonda,16.952123,79.467203,4446,Paved,Good
+VIL0017,Chandur,Nalgonda,Chandur,16.944268,79.264091,2438,Mixed,Moderate
+VIL0018,Bangarigadda,Nalgonda,Chandur,17.214832,79.159865,4508,Mostly paved,Moderate
+VIL0019,Kummarikunta,Nalgonda,Chandur,17.124747,79.092448,1606,Mixed,Weak
+VIL0020,Nermata,Nalgonda,Chandur,17.007424,79.286076,3777,Mostly paved,Moderate
+VIL0021,Nakrekal,Nalgonda,Nakrekal,17.217018,79.318323,4140,Mixed,Moderate
+VIL0022,Nomula,Nalgonda,Nakrekal,17.20908,79.18606,5338,Mostly paved,Good
+VIL0023,Mangalapally,Nalgonda,Nakrekal,16.921699,79.318868,1195,Mixed,Weak
+VIL0024,Marrur,Nalgonda,Nakrekal,17.178541,79.10786,4096,Mostly paved,Weak
+VIL0025,Narayankhed,Sangareddy,Narayankhed,17.643323,78.192227,5472,Mixed,Weak
+VIL0026,Kangti,Sangareddy,Narayankhed,17.427509,77.956075,1533,Paved,Moderate
+VIL0027,Manoor,Sangareddy,Narayankhed,17.456016,78.199495,5355,Mostly paved,Moderate
+VIL0028,Kalher,Sangareddy,Narayankhed,17.781559,78.07694,4416,Mixed,Moderate
+VIL0029,Zaheerabad,Sangareddy,Zaheerabad,17.723764,78.052377,3320,Mixed,Moderate
+VIL0030,Mogudampally,Sangareddy,Zaheerabad,17.578405,77.975663,4300,Mixed,Weak
+VIL0031,Jharasangam,Sangareddy,Zaheerabad,17.471177,78.112599,3474,Mixed,Moderate
+VIL0032,Kohir,Sangareddy,Zaheerabad,17.527174,78.075141,6058,Paved,Good
+VIL0033,Patancheru,Sangareddy,Patancheru,17.760066,77.929057,1837,Mostly paved,Moderate
+VIL0034,Ameenpur,Sangareddy,Patancheru,17.644668,77.974023,6050,Mostly paved,Moderate
+VIL0035,Indresham,Sangareddy,Patancheru,17.679376,78.036809,1543,Paved,Moderate
+VIL0036,Bhanur,Sangareddy,Patancheru,17.494312,78.115808,6274,Mostly paved,Good
